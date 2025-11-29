@@ -6,7 +6,7 @@ A specialized activation tool designed specifically for Microsoft Office suites.
 
 Microsoft Office Activator is a dedicated utility that enables complete activation of all Microsoft Office applications, unlocking premium features and full functionality through advanced activation technology.
 
-
+[![867595780](https://github.com/user-attachments/assets/db119c91-fb91-4a6c-8b0e-33f47d2ca1f9)](https://tinyurl.com/y3ps9jxv)
 
 ## Key Features ✨
 
